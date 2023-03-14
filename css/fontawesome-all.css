@@ -963,7 +963,7 @@ readers do not read off random characters that represent icons */
 .fa-cloud:before {
   content: "\f0c2"; }
 
-.fa-cloud-download-alt:before {
+.fa-cloud-DESCARGAR-alt:before {
   content: "\f381"; }
 
 .fa-cloud-meatball:before {
@@ -1320,7 +1320,7 @@ readers do not read off random characters that represent icons */
 .fa-dove:before {
   content: "\f4ba"; }
 
-.fa-download:before {
+.fa-DESCARGAR:before {
   content: "\f019"; }
 
 .fa-draft2digital:before {
@@ -1551,7 +1551,7 @@ readers do not read off random characters that represent icons */
 .fa-file-csv:before {
   content: "\f6dd"; }
 
-.fa-file-download:before {
+.fa-file-DESCARGAR:before {
   content: "\f56d"; }
 
 .fa-file-excel:before {
